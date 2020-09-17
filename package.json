@@ -1,5 +1,5 @@
 {
-  "name": "vuejs-paginate",
+  "name": "@iodatalabs/vue2-paginate",
   "version": "2.1.0",
   "description": "A simple pagination component for Vue.js",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lokyoung/vuejs-paginate.git"
+    "url": "git+https://github.com/iodatalabsg/vue2-paginate.git"
   },
   "keywords": [
     "vue",
@@ -18,9 +18,12 @@
     "pagination"
   ],
   "author": "Cain Liu",
+  "contributors": [
+    "Yashodhan Singh <yashodhan.singh#unoapp.io>"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lokyoung/vuejs-paginate/issues"
+    "url": "https://github.com/iodatalabsg/vue2-paginate/issues"
   },
   "devDependencies": {
     "babel-core": "^6.21.0",
