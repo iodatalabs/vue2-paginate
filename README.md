@@ -16,19 +16,20 @@ Easy to use by providing simple api. And you can customize the style of this com
 ### NPM
 
 Install the npm package.
-```js
-$ npm install vuejs-paginate --save
+
+```bash
+npm i github:iodatalabs/vue2-paginate#0.1.0
 ```
 
 Register the component.
 - ES5
-```js
+```bash
 var Paginate = require('vuejs-paginate')
 Vue.component('paginate', Paginate)
 ```
 
 - ES6
-```js
+```bash
 import Paginate from 'vuejs-paginate'
 Vue.component('paginate', Paginate)
 ```
@@ -46,7 +47,7 @@ Include the source file.
 ```
 
 Register the component.
-```js
+```bash
 Vue.component('paginate', VuejsPaginate)
 ```
 
